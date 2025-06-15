@@ -39,11 +39,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://caiovinicius-full-stack.github.io/Portal-de-noticias-Rocketseat/)
+- [Acesse o projeto finalizado, online](https://viniciusalmeida-dev.github.io/Portal-de-noticias/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1362166020452569562). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/E1b0j8DRe0bajoCivMlQOM/Portal-de-not%C3%ADcias--Community-?node-id=928-587&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
